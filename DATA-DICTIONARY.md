@@ -2,6 +2,8 @@
 
 This file contains the data fields used along with their business definitions. It explains the meaning, purpose, and context of each field so stakeholders and analysts have a clear understanding before analysis.
 
+---
+
 **Admitted Status**  
 Whether a patient was admitted to the hospital after their emergency room visit.
 
