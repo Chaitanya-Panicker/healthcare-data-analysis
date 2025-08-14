@@ -1,5 +1,7 @@
 # 🏥📊 Hospital Patient Analysis Dashboard
 
+<img width="1336" height="771" alt="Screenshot 1" src="https://github.com/user-attachments/assets/f50b5ccb-cca8-4b5b-aab1-3f5811253749" />
+
 ## 📖 Project Overview  
 Hospitals handle thousands of patients daily, each bringing unique needs, wait times, and satisfaction levels.  
 This project transforms **raw hospital patient data** into a **clear and interactive Power BI dashboard** — allowing hospital administrators, doctors, and analysts to make informed decisions that enhance patient care and operational efficiency.  
@@ -43,22 +45,21 @@ From tracking **admissions** to identifying **peak hours** and analyzing **patie
 2. **Data Cleaning** — Standardize formats, handle missing values.  
 3. **Data Modeling** — Create relationships between patient demographics, admissions, and satisfaction scores.  
 4. **Dashboard Creation** — Build KPIs, charts, heatmaps, and demographic visuals in Power BI.  
-5. **Insights & Storytelling** — Present findings for strategic decision-making.  
 
 ---
 
 ## 🚀 How to Use  
 1. Clone this repository.  
-2. Open the Power BI dashboard file (`Hospital_Patient_Analysis.pbix`).  
+2. Open the Power BI dashboard file (`PowerBI Project File.pbix`).  
 3. Interact with filters (Year, Month) to customize analysis.  
 4. Explore the “Details” page for patient-level insights.  
 
 ---
 
 ## 📬 Contact  
-👤 **Your Name**  
-📧 your.email@example.com  
-🌐 [Your Portfolio Link]  
+👤 **Chaitanya Panicker**  
+📧 chaitanya.panicker98@gmail.com  
+🌐 https://www.linkedin.com/in/chaitanyapanicker  
 
 ---
 
